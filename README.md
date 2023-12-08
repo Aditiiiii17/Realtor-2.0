@@ -1,1 +1,3 @@
-# Realtor-2.0
+Property Pulse
+
+Real Estate-Property Listing app using MERN Stack and tailwind css
